@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Labyrinthe \u00E0 navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58561C85-E83B-AC6F-7235-6D39A46AA3A2}|Assembly-CSharp.csproj|c:\\users\\arnau\\labyrinthe \u00E0 navigation\\assets\\scripts\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58561C85-E83B-AC6F-7235-6D39A46AA3A2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mazegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MazeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\arnau\\Labyrinthe \u00E0 navigation\\Assets\\Scripts\\MazeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MazeGenerator.cs",
+              "ToolTip": "C:\\Users\\arnau\\Labyrinthe \u00E0 navigation\\Assets\\Scripts\\MazeGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MazeGenerator.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwDIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:36:32.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
